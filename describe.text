@@ -1,0 +1,12 @@
+Demo Dictionary
+
+Our Goal
+
+It’s Our goal is to Create a Dictionary application using speech recognition.
+Project Design Pattern 
+
+By the In this project I follow MVC  with help of Delegate pattern
+
+POD & Others 
+
+ I use one dependency library call Instant search voice overlay fore speech recognition  and for dictionary api I use https://dictionaryapi.dev/
